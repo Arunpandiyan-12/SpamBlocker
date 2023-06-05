@@ -41,7 +41,5 @@ To use the email spam detection model, follow these steps:
 
 3. Run the notebook cells to execute the code and train the model on the "email.csv" dataset.
 
-[Provide any additional instructions or information required to run the notebook, such as data preprocessing steps or parameter tuning.]
-
 4. Once the model is trained, you can use it to make predictions on new email data or evaluate its performance using evaluation metrics such as accuracy, precision, recall, or F1-score.
 
